@@ -1,0 +1,4 @@
+numpy=1.19.5
+
+panadas=3.5.0
+matpotlib=4.5.0
